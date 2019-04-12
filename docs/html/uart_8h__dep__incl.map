@@ -1,0 +1,6 @@
+<map id="nxtiot/include/uart.h" name="nxtiot/include/uart.h">
+<area shape="rect" id="node1" title="Defines the UART function definitions." alt="" coords="67,5,204,31"/>
+<area shape="rect" id="node2" href="$uart_8c.html" title="UART driver implementation." alt="" coords="5,85,117,111"/>
+<area shape="rect" id="node3" href="$sigfox__wisol_8h.html" title="Defines the Sigfox Wisol function definitions." alt="" coords="142,79,279,117"/>
+<area shape="rect" id="node4" href="$sigfox__wisol_8c.html" title="Sigfox Wisol driver implementation." alt="" coords="130,165,291,191"/>
+</map>

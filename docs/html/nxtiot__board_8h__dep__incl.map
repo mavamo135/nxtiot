@@ -1,0 +1,9 @@
+<map id="nxtiot/include/nxtiot_board.h" name="nxtiot/include/nxtiot_board.h">
+<area shape="rect" id="node1" title="Defines the configuration of the NXTIOT board." alt="" coords="144,5,279,44"/>
+<area shape="rect" id="node2" href="$gpio_8h.html" title="Defines the GPIO pin state and mode enumerations." alt="" coords="61,92,200,117"/>
+<area shape="rect" id="node6" href="$uart_8h.html" title="Defines the UART function definitions." alt="" coords="225,92,361,117"/>
+<area shape="rect" id="node3" href="$gpio_8c.html" title="GPIO driver implementation." alt="" coords="5,172,119,197"/>
+<area shape="rect" id="node4" href="$sigfox__wisol_8h.html" title="Defines the Sigfox Wisol function definitions." alt="" coords="143,165,280,204"/>
+<area shape="rect" id="node5" href="$sigfox__wisol_8c.html" title="Sigfox Wisol driver implementation." alt="" coords="131,252,292,277"/>
+<area shape="rect" id="node7" href="$uart_8c.html" title="UART driver implementation." alt="" coords="305,172,417,197"/>
+</map>

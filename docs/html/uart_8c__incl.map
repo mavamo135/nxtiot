@@ -1,0 +1,10 @@
+<map id="nxtiot/src/uart.c" name="nxtiot/src/uart.c">
+<area shape="rect" id="node1" title="UART driver implementation." alt="" coords="71,5,183,31"/>
+<area shape="rect" id="node2" href="$uart_8h.html" title="Defines the UART function definitions." alt="" coords="99,79,155,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,152,70,177"/>
+<area shape="rect" id="node4" title=" " alt="" coords="94,152,159,177"/>
+<area shape="rect" id="node5" href="$nxtiot__board_8h.html" title="Defines the configuration of the NXTIOT board." alt="" coords="183,152,289,177"/>
+<area shape="rect" id="node6" title=" " alt="" coords="96,225,161,251"/>
+<area shape="rect" id="node7" title=" " alt="" coords="184,225,288,251"/>
+<area shape="rect" id="node8" title=" " alt="" coords="311,225,396,251"/>
+</map>

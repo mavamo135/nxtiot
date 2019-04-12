@@ -1,0 +1,13 @@
+# Build folder
+build/
+
+# Unity testing repository
+Unity/
+
+# Visual Studio code folder
+.vscode
+
+# Doxygen LaTex generated folder
+latex/
+
+.DS_Store

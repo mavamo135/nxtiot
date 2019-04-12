@@ -1,0 +1,11 @@
+<map id="nxtiot/include/sigfox_wisol.h" name="nxtiot/include/sigfox_wisol.h">
+<area shape="rect" id="node1" title="Defines the Sigfox Wisol function definitions." alt="" coords="146,5,284,44"/>
+<area shape="rect" id="node2" href="$gpio_8h.html" title="Defines the GPIO pin state and mode enumerations." alt="" coords="146,92,204,117"/>
+<area shape="rect" id="node8" href="$uart_8h.html" title="Defines the UART function definitions." alt="" coords="227,92,283,117"/>
+<area shape="rect" id="node3" title=" " alt="" coords="223,165,287,191"/>
+<area shape="rect" id="node4" href="$nxtiot__board_8h.html" title="Defines the configuration of the NXTIOT board." alt="" coords="93,165,199,191"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,239,70,264"/>
+<area shape="rect" id="node6" title=" " alt="" coords="94,239,198,264"/>
+<area shape="rect" id="node7" title=" " alt="" coords="221,239,305,264"/>
+<area shape="rect" id="node9" title=" " alt="" coords="312,165,377,191"/>
+</map>
