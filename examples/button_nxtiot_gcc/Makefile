@@ -4,8 +4,8 @@ MKDIR = mkdir -p
 .PHONY: clean test project
 
 PATH_SRC = src/
-PATH_SRC_LIB = ../nxtiot/src/
-PATH_INC_LIB = ../nxtiot/include/
+PATH_SRC_LIB = ../../nxtiot/src/
+PATH_INC_LIB = ../../nxtiot/include/
 PATH_BLD = build/
 PATH_OBJ = build/objs/
 BASENAME = button_nxtiot_gcc
